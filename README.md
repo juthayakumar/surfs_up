@@ -13,7 +13,7 @@ December statistics for Temperatures
 Three differences between the weather for both months include:
 * the average temperature was about 4 degrees more in June
 * The max temperature was higher in June
-* It was colder in December for mminimum temperature, colder by 8 degrees.
+* It was colder in December for minimum temperature, colder by 8 degrees.
 
 ## Summary 
 After observing statistics for both months, I would say that the shop can be opened all year round. The data was not strongly skewed between the two months, as the max temperatures were fairly close, and the min temperatures weren't too far off either. Average temperatures were only 4 degrees different. 
